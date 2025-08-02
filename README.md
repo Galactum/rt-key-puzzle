@@ -1,2 +1,6 @@
-# rt-key-puzzle
-This is a part of the onboarding puzzle for my discord server, return true;
+### if you know why you're here...
+then get to looking :)
+(you may want to start with the `puzzle` file)
+
+### if you don't know what this is...
+you've stumbled upon one of the onboarding puzzles for my discord server, **return true;**. more about that on [the wiki](https://github.com/Galactum/rt-key-puzzle/wiki/if-you-don't-know-why-you're-here) :)
