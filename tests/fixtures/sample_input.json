@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "return",
+      "name": "return",
+      "roles": ["admin"],
+      "metadata": {
+        "last_login": "2025-07-31T14:22:10Z",
+        "secret": "VE9PIC0gMi8z",
+        "preferences": {
+          "theme": "dark",
+          "notifications": true
+        }
+      }
+    },
+   "settings": {
+    "feature_flags": {
+      "new_ui": false,
+      "beta_mode": true
+    },
+    "max_connections": 10,
+    "timeout_seconds": 300
+  },
+  "logs": [
+    "Initialized system at 2025-07-30T08:00:00Z",
+    "User login: return",
+    "Warning: unused variable 'tempData'"
+  ]
+}
+
