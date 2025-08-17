@@ -12,8 +12,9 @@
           "notifications": true
         }
       }
-    },
-   "settings": {
+    }
+  ],
+  "settings": {
     "feature_flags": {
       "new_ui": false,
       "beta_mode": true
@@ -24,7 +25,7 @@
   "logs": [
     "Initialized system at 2025-07-30T08:00:00Z",
     "User login: return",
-    "Warning: unused variable 'tempData'"
+    "Using predefined secret",
+    "Secret accepted."
   ]
 }
-
